@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   return (
-    <div className="site-container border border-solid border-black">
+    <div className="site-container border border-solid border-black rounded">
       {/* To show progress bar and score */}
       <Progress />
       <header className="font-bold text-xl mb-6">
