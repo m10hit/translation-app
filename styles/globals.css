@@ -22,7 +22,7 @@ a {
 @media (min-width: 300px) {
   .site-container {
     padding: 16px;
-    width: 330px;
+    width: 350px;
     margin: auto;
   }
 }
