@@ -19,20 +19,10 @@ a {
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
-}
-
-@media (min-width: 576px) {
+@media (min-width: 300px) {
   .site-container {
     padding: 16px;
-    width: 350px;
+    width: 330px;
     margin: auto;
   }
 }
